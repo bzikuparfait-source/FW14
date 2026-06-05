@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <title>Mon tout premier portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<h1>PARFAIT WRLD</h1>
+
+
+
+  <section id="Acceuil">
+
+    <h1>Bienvenue dans le portfolio de parfait WRLD</h1>
+    
+
+    <p> Salut moi c'est <strong>Parfait WRLD</strong>. Je suis etudiant de la L1 fasi à l'UPC  </p>
+    <p>j'aime le gaming et tout ce qui a trait à la programation </p>
+
+  </section>
+
+  <section id="competences"></section>
+ 
+  <h2>Mes competences</h2>
+  <p>HTml: debutant</p>
+  <p>canva: bon</p>
+  <p>CSS:debutant</p>
+
+  
+
+    </section>
+
+    <section id="passions">
+
+        <h2>Mes passions</h2>
+
+        <p>je suis passionné de musique, Gaming et surtout amoureux du ballon rond qui est le football</p>
+
+    </section>
+     
+    <section id="contact">
+
+        <h2>contact</h2>
+        
+        <p>Email: bzikuparfait@gmail.com</p>
+        <p>Telephone: 0848212072</p>
+
+        <p>Merci d'avoir visité mon espace personnel</p>
+
+    </section>
+
+    <hr>
+    
+
+        </body>
+        </html>
