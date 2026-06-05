@@ -1,0 +1,58 @@
+/* Style général */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0f172a;
+    color: #e2e8f0;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Conteneur principal */
+body {
+    max-width: 800px;
+    margin: auto;
+    background-color: #1e293b;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+/* Titres */
+h1 {
+    color: #38bdf8;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+    border-bottom: 2px solid red;
+    padding-bottom: 5px;
+}
+
+/* Texte */
+p {
+    line-height: 1.6;
+}
+
+/* Listes */
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+/* Séparateur */
+hr {
+    border: 1px solid #334155;
+    margin: 20px 0;
+}
+
+
+/* Responsive (mobile) */
+@media (max-width: 600px) {
+    body {
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+}
